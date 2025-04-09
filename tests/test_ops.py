@@ -14,4 +14,4 @@ def test_sub():
 def test_mul():
     assert mul(5, 2) == 10
     assert mul(5, 15) == 75
-    assert mul(5, -5) == 25
+    assert mul(5, -5) == -25
